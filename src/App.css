@@ -1,0 +1,23 @@
+.App {
+    background-color: black;
+    color: white;
+    font-family: sans-serif;
+}
+
+footer {
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:black;
+    color: white;
+    text-align: center;
+    padding: 3px 0;
+    margin-bottom: 10px;
+}
+footer a{
+    text-decoration: underline;
+    color: yellow;
+}
+footer a:hover{
+    color: red;
+} 
