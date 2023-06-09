@@ -2,6 +2,12 @@
 
 This is a very simple front-end IMDB clone built with React JS. It uses `react-loading-skeleton`, `react-responsive-carousel`, and plain CSS for styling. The app has a skeleton loading effect and three sections for Popular, Top Rated, and Upcoming movies. It utilises [tmdb](https://developers.themoviedb.org/3/getting-started/introduction) api for fetching information. 
 
+
+
+https://github.com/utk145/imdb-vvsimple-react-clone1/assets/122993091/79909cf5-7cf7-4215-beea-603d5da621a5
+
+
+
 ## Getting Started
 
 In the project directory, you can run:
